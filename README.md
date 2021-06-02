@@ -10,6 +10,7 @@
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://en.wikipedia.org/wiki/Open_source)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/git/git-scm.com/blob/main/MIT-LICENSE.txt)
 ![Profile Views: 0](https://komarev.com/ghpvc/?username=Ni1kko&color=blueviolet)
+[![Discord Ni1kko#0001](https://badgen.net/badge/Discord%20/Ni1kko%230001%20/jetblack?icon=discord)](https://discord.com/users/319393114815070208)
 
 <!--
 **Ni1kko/Ni1kko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
