@@ -7,6 +7,19 @@
   </br>
   
   <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni1kko&layout=compact&hide_border=true&langs_count=10&theme=dracula">
+  </br>
+  
+---
+  <!-- Ni1kko\HourBoostr -->
+  <a href="https://github.com/MartinHeinz/go-project-blueprint">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ni1kko&repo=HourBoostr&title_color=dd6387&text_color=dd6387&icon_color=79dafa&bg_color=1d1f21" />
+  </a>
+  
+  <!-- Ni1kko\Framework -->
+  <a href="https://github.com/MartinHeinz/go-project-blueprint">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ni1kko&repo=Framework&title_color=dd6387&text_color=dd6387&icon_color=79dafa&bg_color=1d1f21" />
+  </a>
+  
 </p>
 
 ---
