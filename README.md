@@ -27,8 +27,8 @@
 
   <img src ="https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github">
   <img src ="https://img.shields.io/badge/License-MIT-blue.svg">
-  <img src ="https://komarev.com/ghpvc/?username=Ni1kko&color=blue"> 
-  <img src ="https://badgen.net/badge/Discord%20/Ni1kko%231652%20/jetblack?icon=discord">
+  <img src ="https://komarev.com/ghpvc/?username=Ni1kko&color=blue">
+  <img src ="https://badgen.net/badge/Discord%20/Ni1kko%231652%20/blue?icon=discord">
   </br>
   <img src ="https://img.shields.io/github/followers/Ni1kko?label=My%20Github%20Followers&logo=github&style=for-the-badge" >
 
