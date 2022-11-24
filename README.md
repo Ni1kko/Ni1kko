@@ -3,7 +3,7 @@
 </p>
  
 <p align="center">
-  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-3/319393114815070208.png" />
+  <img alt="Discord Status" src="https://discord.c99.nl/widget/theme-1/319393114815070208.png" />
   <br>
   </br>
 
