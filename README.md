@@ -18,14 +18,6 @@
 
 ---
 
-<p align="center">
-
-<img src="https://metrics.lecoq.io/Ni1kko?template=classic&base.header=0&base.metadata=0&achievements=1&leetcode=1&lines=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=Ni1kko&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FCalcutta&config.padding=0%2C%204" alt = "Sun tzu once said: Please reload if this is not loading 🙂"/>
-
-</p>
-
----
-
 <!--Editors -->
 <p align="center">
   IDE / Editors
@@ -41,11 +33,9 @@
   <img alt="CPP17" width="26px" src="https://raw.githubusercontent.com/Ni1kko/Ni1kko/main/Icons/cplusplus.png" />
   <img alt="CS9" width="26px" src="https://raw.githubusercontent.com/Ni1kko/Ni1kko/main/Icons/csharp.png" />
   <img alt="PHP8" width="26px" src="https://raw.githubusercontent.com/Ni1kko/Ni1kko/main/Icons/php.png" />
-  </br>
-  <p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni1kko&layout=compact&hide_border=true&langs_count=12&theme=dracula">
-</p>
 </p>
 
 ---
+
+![Metrics](https://metrics.lecoq.io/Ni1kko?template=classic&base.hireable=true&lines=1&stars=1&habits=1&leetcode=1&sponsors=1&people=1&stargazers=1&languages=1&achievements=1&followup=1&code=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=true&base.skip=false&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stargazers=false&stargazers.charts=true&stargazers.charts.type=classic&stargazers.worldmap=false&stargazers.worldmap.sample=0&lines=false&lines.sections=base&lines.repositories.limit=9999&lines.history.limit=9999&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=365&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&sponsors=false&sponsors.sections=goal%2C%20list%2C%20about&sponsors.past=true&sponsors.size=24&sponsors.title=Sponsor%20Me!&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&leetcode=false&leetcode.user=Ni1kko&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Europe%2FLondon)
 
