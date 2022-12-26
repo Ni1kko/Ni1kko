@@ -11,24 +11,36 @@
   <img src ="https://img.shields.io/badge/License-MIT-blue.svg">
   <img src ="https://komarev.com/ghpvc/?username=Ni1kko&color=blue">
   </br>
-  <img src ="https://img.shields.io/github/followers/Ni1kko?label=My%20Github%20Followers&logo=github&style=for-the-badge" >
+  <img src ="https://img.shields.io/github/followers/Ni1kko?label=My%20Github%20Followers&logo=github&style=for-the-badge" >![image](https://user-images.githubusercontent.com/32308152/209500066-8e442663-125f-4a3a-bc79-2c571085045e.png)
+
 
 </p>
 
 ---
 
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api?username=Ni1kko&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=dracula">
-</p>
+<h2>Profile summary</h2>
+<table>
+  <tbody>
+    <tr>
+      <td rowspan="2">
+        <img src="https://metrics.lecoq.io/Ni1kko?template=classic&base.header=0&base.metadata=0&achievements=1&leetcode=1&lines=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&leetcode=false&leetcode.user=Ni1kko&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&fortune=false&config.timezone=Asia%2FCalcutta&config.padding=0%2C%204" alt = "Sun tzu once said: Please reload if this is not loading 🙂"/>
+        <br></br>
+      </td>
+      <td>
+        <picture>
+          <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni1kko&langs_count=12&theme=dracula">
+        </picture>
+      </td>
+    </tr>
+    <td>
+        <picture>
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=Ni1kko&theme=tokyonight&hide_border=true" />
+        </picture>
+    </td>
+    
+  </tbody>
+</table>
 
----
-
-<p align="center">
-  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni1kko&layout=compact&hide_border=true&langs_count=10&theme=dracula">
-</p>
-
-
----
 
 <!--Editors -->
 <p align="center">
