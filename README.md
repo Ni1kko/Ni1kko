@@ -42,6 +42,9 @@
   <img alt="CS9" width="26px" src="https://raw.githubusercontent.com/Ni1kko/Ni1kko/main/Icons/csharp.png" />
   <img alt="PHP8" width="26px" src="https://raw.githubusercontent.com/Ni1kko/Ni1kko/main/Icons/php.png" />
   </br>
+  <p align="center">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Ni1kko&layout=compact&hide_border=true&langs_count=12&theme=dracula">
+</p>
 </p>
 
 ---
