@@ -14,6 +14,6 @@
  
 <div align = "center">
  <picture>
- <img src ="github-metrics.svg">
+ <img src ="github-metrics.svg" alt = "Well this is embarrassing, Failed to load content. Try F5 to refresh">
  </picture>
 </div>
