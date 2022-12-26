@@ -11,7 +11,7 @@
   <img src ="https://img.shields.io/badge/License-MIT-blue.svg">
   <img src ="https://komarev.com/ghpvc/?username=Ni1kko&color=blue">
   </br>
-  <img src ="https://img.shields.io/github/followers/Ni1kko?label=My%20Github%20Followers&logo=github&style=for-the-badge" >![image](https://user-images.githubusercontent.com/32308152/209500066-8e442663-125f-4a3a-bc79-2c571085045e.png)
+  <img src ="https://img.shields.io/github/followers/Ni1kko?label=My%20Github%20Followers&logo=github&style=for-the-badge" >
 
 
 </p>
