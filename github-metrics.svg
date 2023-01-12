@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    16.6m added, 3.08m removed
+                                    16.3m added, 3.19m removed
                                 </div>
                             </section>
                             <section>
@@ -497,16 +497,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,89.8C39.5,78.8,49,68.488,58.5,56.8C68,45.113,77.5,19.4,87,19.4C96.5,19.4,106,51.322,115.5,63.4C125,75.478,134.5,94.2,144,94.2C153.5,94.2,163,87.6,172.5,87.6C182,87.6,191.5,103.733,201,111.8L201,125Z" class="ct-area"/>
-                                            <path d="M30,89.8C39.5,78.8,49,68.488,58.5,56.8C68,45.113,77.5,19.4,87,19.4C96.5,19.4,106,51.322,115.5,63.4C125,75.478,134.5,94.2,144,94.2C153.5,94.2,163,87.6,172.5,87.6C182,87.6,191.5,103.733,201,111.8" class="ct-line"/>
+                                            <path d="M30,125L30,89.8C39.5,79.533,49,70.55,58.5,59C68,47.45,77.5,19.4,87,19.4C96.5,19.4,106,51.844,115.5,63.4C125,74.956,134.5,92,144,92C153.5,92,163,87.6,172.5,87.6C182,87.6,191.5,103.733,201,111.8L201,125Z" class="ct-area"/>
+                                            <path d="M30,89.8C39.5,79.533,49,70.55,58.5,59C68,47.45,77.5,19.4,87,19.4C96.5,19.4,106,51.844,115.5,63.4C125,74.956,134.5,92,144,92C153.5,92,163,87.6,172.5,87.6C182,87.6,191.5,103.733,201,111.8" class="ct-line"/>
                                             <line x1="30" y1="89.8" x2="30.01" y2="89.8" class="ct-point" ct:value="16"/>
-                                            <line x1="58.5" y1="56.8" x2="58.51" y2="56.8" class="ct-point" ct:value="31"/>
+                                            <line x1="58.5" y1="59" x2="58.51" y2="59" class="ct-point" ct:value="30"/>
                                             <line x1="87" y1="19.400000000000006" x2="87.01" y2="19.400000000000006" class="ct-point" ct:value="48"/>
                                             <line x1="115.5" y1="63.4" x2="115.51" y2="63.4" class="ct-point" ct:value="28"/>
-                                            <line x1="144" y1="94.2" x2="144.01" y2="94.2" class="ct-point" ct:value="14"/>
+                                            <line x1="144" y1="92" x2="144.01" y2="92" class="ct-point" ct:value="15"/>
                                             <line x1="172.5" y1="87.6" x2="172.51" y2="87.6" class="ct-point" ct:value="17"/>
                                             <line x1="201" y1="111.8" x2="201.01" y2="111.8" class="ct-point" ct:value="6"/>
-                                        <text x="30" y="84.8" class="ct-post">16</text><text x="58.5" y="51.8" class="ct-post">31</text><text x="87" y="14.400000000000006" class="ct-post">48</text><text x="115.5" y="58.4" class="ct-post">28</text><text x="144" y="89.2" class="ct-post">14</text><text x="172.5" y="82.6" class="ct-post">17</text><text x="201" y="106.8" class="ct-post">6</text></g>
+                                        <text x="30" y="84.8" class="ct-post">16</text><text x="58.5" y="54" class="ct-post">30</text><text x="87" y="14.400000000000006" class="ct-post">48</text><text x="115.5" y="58.4" class="ct-post">28</text><text x="144" y="87" class="ct-post">15</text><text x="172.5" y="82.6" class="ct-post">17</text><text x="201" y="106.8" class="ct-post">6</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1171,7 +1171,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="133.3 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="133.81666666666666 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1193,7 +1193,7 @@
                                     <span class="prefix">Great</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 458 times</div>
+                                <div class="text">Repositories have been deployed 459 times</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -1825,7 +1825,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2023, 08:03:58 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
+                <span>Last updated 12 Jan 2023, 09:04:00 (timezone Europe/London) with lowlighter/metrics@3.31.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
