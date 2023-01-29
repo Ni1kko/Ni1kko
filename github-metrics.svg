@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    35.5m added, 3.31m removed
+                                    15.4m added, 1.65m removed
                                 </div>
                             </section>
                             <section>
@@ -393,13 +393,13 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 145 commits)</small>
+                    <small class="h-details">(computed from last 146 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
                         <li>Has approximately 34.7 characters per line of code written</li>
-                        <li>Mostly pushes code around 12:00</li>
+                        <li>Mostly pushes code around 23:00</li>
                         <li>Mostly active on Saturday</li>
                     </ul>
                 </div>
@@ -419,8 +419,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,95.667C36.304,83.444,42.609,59,48.913,59C55.217,59,61.522,81.815,67.826,88.333C74.13,94.852,80.435,97.133,86.739,103C93.043,108.867,99.348,125,105.652,125C111.957,125,118.261,111.381,124.565,103C130.87,94.619,137.174,73.667,143.478,73.667C149.783,73.667,156.087,103.349,162.391,110.333C168.696,117.317,175,125,181.304,125C187.609,125,193.913,81,200.217,81C206.522,81,212.826,88.333,219.13,88.333C225.435,88.333,231.739,85.074,238.043,81C244.348,76.926,250.652,44.333,256.957,44.333C263.261,44.333,269.565,62.667,275.87,66.333C282.174,70,288.478,70.407,294.783,73.667C301.087,76.926,307.391,85.074,313.696,88.333C320,91.593,326.304,95.667,332.609,95.667C338.913,95.667,345.217,59,351.522,59C357.826,59,364.13,81,370.435,81C376.739,81,383.043,44.333,389.348,44.333C395.652,44.333,401.957,81,408.261,81C414.565,81,420.87,44.333,427.174,44.333C433.478,44.333,439.783,81,446.087,81C452.391,81,458.696,56.556,465,44.333L465,125Z" class="ct-area"/>
-                                        <path d="M30,95.667C36.304,83.444,42.609,59,48.913,59C55.217,59,61.522,81.815,67.826,88.333C74.13,94.852,80.435,97.133,86.739,103C93.043,108.867,99.348,125,105.652,125C111.957,125,118.261,111.381,124.565,103C130.87,94.619,137.174,73.667,143.478,73.667C149.783,73.667,156.087,103.349,162.391,110.333C168.696,117.317,175,125,181.304,125C187.609,125,193.913,81,200.217,81C206.522,81,212.826,88.333,219.13,88.333C225.435,88.333,231.739,85.074,238.043,81C244.348,76.926,250.652,44.333,256.957,44.333C263.261,44.333,269.565,62.667,275.87,66.333C282.174,70,288.478,70.407,294.783,73.667C301.087,76.926,307.391,85.074,313.696,88.333C320,91.593,326.304,95.667,332.609,95.667C338.913,95.667,345.217,59,351.522,59C357.826,59,364.13,81,370.435,81C376.739,81,383.043,44.333,389.348,44.333C395.652,44.333,401.957,81,408.261,81C414.565,81,420.87,44.333,427.174,44.333C433.478,44.333,439.783,81,446.087,81C452.391,81,458.696,56.556,465,44.333" class="ct-line"/>
+                                        <path d="M30,125L30,95.667C36.304,83.444,42.609,59,48.913,59C55.217,59,61.522,81.815,67.826,88.333C74.13,94.852,80.435,97.133,86.739,103C93.043,108.867,99.348,125,105.652,125C111.957,125,118.261,111.381,124.565,103C130.87,94.619,137.174,73.667,143.478,73.667C149.783,73.667,156.087,103.349,162.391,110.333C168.696,117.317,175,125,181.304,125C187.609,125,193.913,81,200.217,81C206.522,81,212.826,88.333,219.13,88.333C225.435,88.333,231.739,85.074,238.043,81C244.348,76.926,250.652,44.333,256.957,44.333C263.261,44.333,269.565,62.667,275.87,66.333C282.174,70,288.478,70.407,294.783,73.667C301.087,76.926,307.391,85.074,313.696,88.333C320,91.593,326.304,95.667,332.609,95.667C338.913,95.667,345.217,59,351.522,59C357.826,59,364.13,81,370.435,81C376.739,81,383.043,44.333,389.348,44.333C395.652,44.333,401.957,81,408.261,81C414.565,81,420.87,44.333,427.174,44.333C433.478,44.333,439.783,81,446.087,81C452.391,81,458.696,51.667,465,37L465,125Z" class="ct-area"/>
+                                        <path d="M30,95.667C36.304,83.444,42.609,59,48.913,59C55.217,59,61.522,81.815,67.826,88.333C74.13,94.852,80.435,97.133,86.739,103C93.043,108.867,99.348,125,105.652,125C111.957,125,118.261,111.381,124.565,103C130.87,94.619,137.174,73.667,143.478,73.667C149.783,73.667,156.087,103.349,162.391,110.333C168.696,117.317,175,125,181.304,125C187.609,125,193.913,81,200.217,81C206.522,81,212.826,88.333,219.13,88.333C225.435,88.333,231.739,85.074,238.043,81C244.348,76.926,250.652,44.333,256.957,44.333C263.261,44.333,269.565,62.667,275.87,66.333C282.174,70,288.478,70.407,294.783,73.667C301.087,76.926,307.391,85.074,313.696,88.333C320,91.593,326.304,95.667,332.609,95.667C338.913,95.667,345.217,59,351.522,59C357.826,59,364.13,81,370.435,81C376.739,81,383.043,44.333,389.348,44.333C395.652,44.333,401.957,81,408.261,81C414.565,81,420.87,44.333,427.174,44.333C433.478,44.333,439.783,81,446.087,81C452.391,81,458.696,51.667,465,37" class="ct-line"/>
                                         <line x1="30" y1="95.66666666666667" x2="30.01" y2="95.66666666666667" class="ct-point" ct:value="4"/>
                                         <line x1="48.913043478260875" y1="59" x2="48.92304347826087" y2="59" class="ct-point" ct:value="9"/>
                                         <line x1="67.82608695652175" y1="88.33333333333334" x2="67.83608695652175" y2="88.33333333333334" class="ct-point" ct:value="5"/>
@@ -444,8 +444,8 @@
                                         <line x1="408.26086956521743" y1="81" x2="408.2708695652174" y2="81" class="ct-point" ct:value="6"/>
                                         <line x1="427.1739130434783" y1="44.33333333333333" x2="427.1839130434783" y2="44.33333333333333" class="ct-point" ct:value="11"/>
                                         <line x1="446.0869565217392" y1="81" x2="446.0969565217392" y2="81" class="ct-point" ct:value="6"/>
-                                        <line x1="465.00000000000006" y1="44.33333333333333" x2="465.01000000000005" y2="44.33333333333333" class="ct-point" ct:value="11"/>
-                                    <text x="30" y="90.66666666666667" class="ct-post">4</text><text x="48.913043478260875" y="54" class="ct-post">9</text><text x="67.82608695652175" y="83.33333333333334" class="ct-post">5</text><text x="86.73913043478261" y="98" class="ct-post">3</text><text x="124.56521739130436" y="98" class="ct-post">3</text><text x="143.47826086956522" y="68.66666666666666" class="ct-post">7</text><text x="162.3913043478261" y="105.33333333333333" class="ct-post">2</text><text x="200.21739130434784" y="76" class="ct-post">6</text><text x="219.13043478260872" y="83.33333333333334" class="ct-post">5</text><text x="238.0434782608696" y="76" class="ct-post">6</text><text x="256.95652173913044" y="39.33333333333333" class="ct-post">11</text><text x="275.8695652173913" y="61.33333333333334" class="ct-post">8</text><text x="294.7826086956522" y="68.66666666666666" class="ct-post">7</text><text x="313.69565217391306" y="83.33333333333334" class="ct-post">5</text><text x="332.60869565217394" y="90.66666666666667" class="ct-post">4</text><text x="351.5217391304348" y="54" class="ct-post">9</text><text x="370.4347826086957" y="76" class="ct-post">6</text><text x="389.34782608695656" y="39.33333333333333" class="ct-post">11</text><text x="408.26086956521743" y="76" class="ct-post">6</text><text x="427.1739130434783" y="39.33333333333333" class="ct-post">11</text><text x="446.0869565217392" y="76" class="ct-post">6</text><text x="465.00000000000006" y="39.33333333333333" class="ct-post">11</text></g>
+                                        <line x1="465.00000000000006" y1="37" x2="465.01000000000005" y2="37" class="ct-point" ct:value="12"/>
+                                    <text x="30" y="90.66666666666667" class="ct-post">4</text><text x="48.913043478260875" y="54" class="ct-post">9</text><text x="67.82608695652175" y="83.33333333333334" class="ct-post">5</text><text x="86.73913043478261" y="98" class="ct-post">3</text><text x="124.56521739130436" y="98" class="ct-post">3</text><text x="143.47826086956522" y="68.66666666666666" class="ct-post">7</text><text x="162.3913043478261" y="105.33333333333333" class="ct-post">2</text><text x="200.21739130434784" y="76" class="ct-post">6</text><text x="219.13043478260872" y="83.33333333333334" class="ct-post">5</text><text x="238.0434782608696" y="76" class="ct-post">6</text><text x="256.95652173913044" y="39.33333333333333" class="ct-post">11</text><text x="275.8695652173913" y="61.33333333333334" class="ct-post">8</text><text x="294.7826086956522" y="68.66666666666666" class="ct-post">7</text><text x="313.69565217391306" y="83.33333333333334" class="ct-post">5</text><text x="332.60869565217394" y="90.66666666666667" class="ct-post">4</text><text x="351.5217391304348" y="54" class="ct-post">9</text><text x="370.4347826086957" y="76" class="ct-post">6</text><text x="389.34782608695656" y="39.33333333333333" class="ct-post">11</text><text x="408.26086956521743" y="76" class="ct-post">6</text><text x="427.1739130434783" y="39.33333333333333" class="ct-post">11</text><text x="446.0869565217392" y="76" class="ct-post">6</text><text x="465.00000000000006" y="32" class="ct-post">12</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -495,16 +495,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,86.5C39.5,96.583,49,116.75,58.5,116.75C68,116.75,77.5,77.984,87,64.5C96.5,51.016,106,31.5,115.5,31.5C125,31.5,134.5,81,144,81C153.5,81,163,74.004,172.5,67.25C182,60.496,191.5,41.583,201,28.75L201,125Z" class="ct-area"/>
-                                            <path d="M30,86.5C39.5,96.583,49,116.75,58.5,116.75C68,116.75,77.5,77.984,87,64.5C96.5,51.016,106,31.5,115.5,31.5C125,31.5,134.5,81,144,81C153.5,81,163,74.004,172.5,67.25C182,60.496,191.5,41.583,201,28.75" class="ct-line"/>
+                                            <path d="M30,125L30,86.5C39.5,96.583,49,116.75,58.5,116.75C68,116.75,77.5,77.984,87,64.5C96.5,51.016,106,31.5,115.5,31.5C125,31.5,134.5,81,144,81C153.5,81,163,74.125,172.5,67.25C182,60.375,191.5,39.75,201,26L201,125Z" class="ct-area"/>
+                                            <path d="M30,86.5C39.5,96.583,49,116.75,58.5,116.75C68,116.75,77.5,77.984,87,64.5C96.5,51.016,106,31.5,115.5,31.5C125,31.5,134.5,81,144,81C153.5,81,163,74.125,172.5,67.25C182,60.375,191.5,39.75,201,26" class="ct-line"/>
                                             <line x1="30" y1="86.5" x2="30.01" y2="86.5" class="ct-point" ct:value="14"/>
                                             <line x1="58.5" y1="116.75" x2="58.51" y2="116.75" class="ct-point" ct:value="3"/>
                                             <line x1="87" y1="64.5" x2="87.01" y2="64.5" class="ct-point" ct:value="22"/>
                                             <line x1="115.5" y1="31.5" x2="115.51" y2="31.5" class="ct-point" ct:value="34"/>
                                             <line x1="144" y1="81" x2="144.01" y2="81" class="ct-point" ct:value="16"/>
                                             <line x1="172.5" y1="67.25" x2="172.51" y2="67.25" class="ct-point" ct:value="21"/>
-                                            <line x1="201" y1="28.75" x2="201.01" y2="28.75" class="ct-point" ct:value="35"/>
-                                        <text x="30" y="81.5" class="ct-post">14</text><text x="58.5" y="111.75" class="ct-post">3</text><text x="87" y="59.5" class="ct-post">22</text><text x="115.5" y="26.5" class="ct-post">34</text><text x="144" y="76" class="ct-post">16</text><text x="172.5" y="62.25" class="ct-post">21</text><text x="201" y="23.75" class="ct-post">35</text></g>
+                                            <line x1="201" y1="26" x2="201.01" y2="26" class="ct-point" ct:value="36"/>
+                                        <text x="30" y="81.5" class="ct-post">14</text><text x="58.5" y="111.75" class="ct-post">3</text><text x="87" y="59.5" class="ct-post">22</text><text x="115.5" y="26.5" class="ct-post">34</text><text x="144" y="76" class="ct-post">16</text><text x="172.5" y="62.25" class="ct-post">21</text><text x="201" y="21" class="ct-post">36</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -741,13 +741,8 @@
                             <div class="entry">
                                 <span class="value">25</span>
                                 <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                15
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
-                                <span class="value"></span>
-                                <div class="bar" style="height: 2.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 16
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -809,21 +804,21 @@
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 28
                             </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                29
+                            </div>
                         </div>
                     </section>
                     <section class="column chart chartist">
                         <h3>New stargazers per day</h3>
                         <div class="chart-bars">
                             <div class="entry">
-                                <span class="value">+1</span>
-                                <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                15
-                                <div class="bottom">Jan.</div>
-                            </div>
-                            <div class="entry">
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 16
+                                <div class="bottom">Jan.</div>
                             </div>
                             <div class="entry">
                                 <span class="value"></span>
@@ -884,6 +879,11 @@
                                 <span class="value"></span>
                                 <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 28
+                            </div>
+                            <div class="entry">
+                                <span class="value"></span>
+                                <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                                29
                             </div>
                         </div>
                     </section>
@@ -1056,7 +1056,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.6675 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="27.744999999999997 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1078,7 +1078,7 @@
                                     <span class="prefix">Super</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 857 times</div>
+                                <div class="text">Repositories have been deployed 858 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1816,7 +1816,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2023, 23:03:03 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 29 Jan 2023, 00:09:32 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
