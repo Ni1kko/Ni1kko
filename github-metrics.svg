@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -51,7 +51,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 47 repositories
+                            Contributed to 49 repositories
                         </div>
                     </section>
                 </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2098 Commits
+                            2106 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            106 Pull requests opened
+                            107 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -133,7 +133,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                             </svg>
-                            Watching 98 repositories
+                            Watching 100 repositories
                         </div>
                     </section>
                 </div>
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    12.2m added, 411k removed
+                                    34.1m added, 3.65m removed
                                 </div>
                             </section>
                             <section>
@@ -398,7 +398,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 51.1 characters per line of code written</li>
+                        <li>Has approximately 51.4 characters per line of code written</li>
                         <li>Mostly pushes code around 01:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -419,8 +419,8 @@
                                 </g>
                                 <g>
                                     <g class="ct-series ct-series-a">
-                                        <path d="M30,125L30,62.667C36.304,55.333,42.609,40.667,48.913,40.667C55.217,40.667,61.522,63.481,67.826,70C74.13,76.519,80.435,79.778,86.739,84.667C93.043,89.556,99.348,94.444,105.652,99.333C111.957,104.222,118.261,109.81,124.565,114C130.87,118.19,137.174,125,143.478,125C149.783,125,156.087,121.333,162.391,121.333C168.696,121.333,175,125,181.304,125C187.609,125,193.913,114,200.217,114C206.522,114,212.826,114,219.13,114C225.435,114,231.739,112.429,238.043,110.333C244.348,108.238,250.652,88.333,256.957,88.333C263.261,88.333,269.565,106.667,275.87,106.667C282.174,106.667,288.478,95.667,294.783,95.667C301.087,95.667,307.391,110.333,313.696,110.333C320,110.333,326.304,110.333,332.609,110.333C338.913,110.333,345.217,110.333,351.522,110.333C357.826,110.333,364.13,99.333,370.435,99.333C376.739,99.333,383.043,99.333,389.348,99.333C395.652,99.333,401.957,88.333,408.261,88.333C414.565,88.333,420.87,114,427.174,114C433.478,114,439.783,88.333,446.087,88.333C452.391,88.333,458.696,95.667,465,99.333L465,125Z" class="ct-area"/>
-                                        <path d="M30,62.667C36.304,55.333,42.609,40.667,48.913,40.667C55.217,40.667,61.522,63.481,67.826,70C74.13,76.519,80.435,79.778,86.739,84.667C93.043,89.556,99.348,94.444,105.652,99.333C111.957,104.222,118.261,109.81,124.565,114C130.87,118.19,137.174,125,143.478,125C149.783,125,156.087,121.333,162.391,121.333C168.696,121.333,175,125,181.304,125C187.609,125,193.913,114,200.217,114C206.522,114,212.826,114,219.13,114C225.435,114,231.739,112.429,238.043,110.333C244.348,108.238,250.652,88.333,256.957,88.333C263.261,88.333,269.565,106.667,275.87,106.667C282.174,106.667,288.478,95.667,294.783,95.667C301.087,95.667,307.391,110.333,313.696,110.333C320,110.333,326.304,110.333,332.609,110.333C338.913,110.333,345.217,110.333,351.522,110.333C357.826,110.333,364.13,99.333,370.435,99.333C376.739,99.333,383.043,99.333,389.348,99.333C395.652,99.333,401.957,88.333,408.261,88.333C414.565,88.333,420.87,114,427.174,114C433.478,114,439.783,88.333,446.087,88.333C452.391,88.333,458.696,95.667,465,99.333" class="ct-line"/>
+                                        <path d="M30,125L30,62.667C36.304,55.333,42.609,40.667,48.913,40.667C55.217,40.667,61.522,63.481,67.826,70C74.13,76.519,80.435,79.778,86.739,84.667C93.043,89.556,99.348,94.444,105.652,99.333C111.957,104.222,118.261,109.81,124.565,114C130.87,118.19,137.174,125,143.478,125C149.783,125,156.087,121.333,162.391,121.333C168.696,121.333,175,125,181.304,125C187.609,125,193.913,114,200.217,114C206.522,114,212.826,114,219.13,114C225.435,114,231.739,112.429,238.043,110.333C244.348,108.238,250.652,88.333,256.957,88.333C263.261,88.333,269.565,106.667,275.87,106.667C282.174,106.667,288.478,98.6,294.783,95.667C301.087,92.733,307.391,88.333,313.696,88.333C320,88.333,326.304,121.333,332.609,121.333C338.913,121.333,345.217,119.622,351.522,117.667C357.826,115.711,364.13,104.956,370.435,103C376.739,101.044,383.043,101.167,389.348,99.333C395.652,97.5,401.957,88.333,408.261,88.333C414.565,88.333,420.87,114,427.174,114C433.478,114,439.783,88.333,446.087,88.333C452.391,88.333,458.696,95.667,465,99.333L465,125Z" class="ct-area"/>
+                                        <path d="M30,62.667C36.304,55.333,42.609,40.667,48.913,40.667C55.217,40.667,61.522,63.481,67.826,70C74.13,76.519,80.435,79.778,86.739,84.667C93.043,89.556,99.348,94.444,105.652,99.333C111.957,104.222,118.261,109.81,124.565,114C130.87,118.19,137.174,125,143.478,125C149.783,125,156.087,121.333,162.391,121.333C168.696,121.333,175,125,181.304,125C187.609,125,193.913,114,200.217,114C206.522,114,212.826,114,219.13,114C225.435,114,231.739,112.429,238.043,110.333C244.348,108.238,250.652,88.333,256.957,88.333C263.261,88.333,269.565,106.667,275.87,106.667C282.174,106.667,288.478,98.6,294.783,95.667C301.087,92.733,307.391,88.333,313.696,88.333C320,88.333,326.304,121.333,332.609,121.333C338.913,121.333,345.217,119.622,351.522,117.667C357.826,115.711,364.13,104.956,370.435,103C376.739,101.044,383.043,101.167,389.348,99.333C395.652,97.5,401.957,88.333,408.261,88.333C414.565,88.333,420.87,114,427.174,114C433.478,114,439.783,88.333,446.087,88.333C452.391,88.333,458.696,95.667,465,99.333" class="ct-line"/>
                                         <line x1="30" y1="62.666666666666664" x2="30.01" y2="62.666666666666664" class="ct-point" ct:value="17"/>
                                         <line x1="48.913043478260875" y1="40.66666666666667" x2="48.92304347826087" y2="40.66666666666667" class="ct-point" ct:value="23"/>
                                         <line x1="67.82608695652175" y1="70" x2="67.83608695652175" y2="70" class="ct-point" ct:value="15"/>
@@ -436,16 +436,16 @@
                                         <line x1="256.95652173913044" y1="88.33333333333334" x2="256.9665217391304" y2="88.33333333333334" class="ct-point" ct:value="10"/>
                                         <line x1="275.8695652173913" y1="106.66666666666667" x2="275.8795652173913" y2="106.66666666666667" class="ct-point" ct:value="5"/>
                                         <line x1="294.7826086956522" y1="95.66666666666667" x2="294.7926086956522" y2="95.66666666666667" class="ct-point" ct:value="8"/>
-                                        <line x1="313.69565217391306" y1="110.33333333333333" x2="313.70565217391305" y2="110.33333333333333" class="ct-point" ct:value="4"/>
-                                        <line x1="332.60869565217394" y1="110.33333333333333" x2="332.6186956521739" y2="110.33333333333333" class="ct-point" ct:value="4"/>
-                                        <line x1="351.5217391304348" y1="110.33333333333333" x2="351.5317391304348" y2="110.33333333333333" class="ct-point" ct:value="4"/>
-                                        <line x1="370.4347826086957" y1="99.33333333333333" x2="370.4447826086957" y2="99.33333333333333" class="ct-point" ct:value="7"/>
+                                        <line x1="313.69565217391306" y1="88.33333333333334" x2="313.70565217391305" y2="88.33333333333334" class="ct-point" ct:value="10"/>
+                                        <line x1="332.60869565217394" y1="121.33333333333333" x2="332.6186956521739" y2="121.33333333333333" class="ct-point" ct:value="1"/>
+                                        <line x1="351.5217391304348" y1="117.66666666666667" x2="351.5317391304348" y2="117.66666666666667" class="ct-point" ct:value="2"/>
+                                        <line x1="370.4347826086957" y1="103" x2="370.4447826086957" y2="103" class="ct-point" ct:value="6"/>
                                         <line x1="389.34782608695656" y1="99.33333333333333" x2="389.35782608695655" y2="99.33333333333333" class="ct-point" ct:value="7"/>
                                         <line x1="408.26086956521743" y1="88.33333333333334" x2="408.2708695652174" y2="88.33333333333334" class="ct-point" ct:value="10"/>
                                         <line x1="427.1739130434783" y1="114" x2="427.1839130434783" y2="114" class="ct-point" ct:value="3"/>
                                         <line x1="446.0869565217392" y1="88.33333333333334" x2="446.0969565217392" y2="88.33333333333334" class="ct-point" ct:value="10"/>
                                         <line x1="465.00000000000006" y1="99.33333333333333" x2="465.01000000000005" y2="99.33333333333333" class="ct-point" ct:value="7"/>
-                                    <text x="30" y="57.666666666666664" class="ct-post">17</text><text x="48.913043478260875" y="35.66666666666667" class="ct-post">23</text><text x="67.82608695652175" y="65" class="ct-post">15</text><text x="86.73913043478261" y="79.66666666666666" class="ct-post">11</text><text x="105.65217391304348" y="94.33333333333333" class="ct-post">7</text><text x="124.56521739130436" y="109" class="ct-post">3</text><text x="162.3913043478261" y="116.33333333333333" class="ct-post">1</text><text x="200.21739130434784" y="109" class="ct-post">3</text><text x="219.13043478260872" y="109" class="ct-post">3</text><text x="238.0434782608696" y="105.33333333333333" class="ct-post">4</text><text x="256.95652173913044" y="83.33333333333334" class="ct-post">10</text><text x="275.8695652173913" y="101.66666666666667" class="ct-post">5</text><text x="294.7826086956522" y="90.66666666666667" class="ct-post">8</text><text x="313.69565217391306" y="105.33333333333333" class="ct-post">4</text><text x="332.60869565217394" y="105.33333333333333" class="ct-post">4</text><text x="351.5217391304348" y="105.33333333333333" class="ct-post">4</text><text x="370.4347826086957" y="94.33333333333333" class="ct-post">7</text><text x="389.34782608695656" y="94.33333333333333" class="ct-post">7</text><text x="408.26086956521743" y="83.33333333333334" class="ct-post">10</text><text x="427.1739130434783" y="109" class="ct-post">3</text><text x="446.0869565217392" y="83.33333333333334" class="ct-post">10</text><text x="465.00000000000006" y="94.33333333333333" class="ct-post">7</text></g>
+                                    <text x="30" y="57.666666666666664" class="ct-post">17</text><text x="48.913043478260875" y="35.66666666666667" class="ct-post">23</text><text x="67.82608695652175" y="65" class="ct-post">15</text><text x="86.73913043478261" y="79.66666666666666" class="ct-post">11</text><text x="105.65217391304348" y="94.33333333333333" class="ct-post">7</text><text x="124.56521739130436" y="109" class="ct-post">3</text><text x="162.3913043478261" y="116.33333333333333" class="ct-post">1</text><text x="200.21739130434784" y="109" class="ct-post">3</text><text x="219.13043478260872" y="109" class="ct-post">3</text><text x="238.0434782608696" y="105.33333333333333" class="ct-post">4</text><text x="256.95652173913044" y="83.33333333333334" class="ct-post">10</text><text x="275.8695652173913" y="101.66666666666667" class="ct-post">5</text><text x="294.7826086956522" y="90.66666666666667" class="ct-post">8</text><text x="313.69565217391306" y="83.33333333333334" class="ct-post">10</text><text x="332.60869565217394" y="116.33333333333333" class="ct-post">1</text><text x="351.5217391304348" y="112.66666666666667" class="ct-post">2</text><text x="370.4347826086957" y="98" class="ct-post">6</text><text x="389.34782608695656" y="94.33333333333333" class="ct-post">7</text><text x="408.26086956521743" y="83.33333333333334" class="ct-post">10</text><text x="427.1739130434783" y="109" class="ct-post">3</text><text x="446.0869565217392" y="83.33333333333334" class="ct-post">10</text><text x="465.00000000000006" y="94.33333333333333" class="ct-post">7</text></g>
                                 </g>
                                 <g class="ct-labels">
                                     <text x="30" y="145" width="18.91304347826087" height="20" class="ct-label ct-horizontal ct-end">0</text>
@@ -488,23 +488,24 @@
                                     <!-- (optimized css) -->
                                     <g class="ct-grids">
                                         <line y1="125" y2="125" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="97.5" y2="97.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="70" y2="70" x1="30" x2="201" class="ct-grid ct-vertical"/>
-                                        <line y1="42.5" y2="42.5" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="103" y2="103" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="81" y2="81" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="59" y2="59" x1="30" x2="201" class="ct-grid ct-vertical"/>
+                                        <line y1="37" y2="37" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                         <line y1="15" y2="15" x1="30" x2="201" class="ct-grid ct-vertical"/>
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,103C39.5,81,49,37,58.5,37C68,37,77.5,48,87,48C96.5,48,106,15,115.5,15C125,15,134.5,111.25,144,111.25C153.5,111.25,163,82.768,172.5,70C182,57.232,191.5,46.167,201,34.25L201,125Z" class="ct-area"/>
-                                            <path d="M30,103C39.5,81,49,37,58.5,37C68,37,77.5,48,87,48C96.5,48,106,15,115.5,15C125,15,134.5,111.25,144,111.25C153.5,111.25,163,82.768,172.5,70C182,57.232,191.5,46.167,201,34.25" class="ct-line"/>
-                                            <line x1="30" y1="103" x2="30.01" y2="103" class="ct-point" ct:value="8"/>
-                                            <line x1="58.5" y1="37" x2="58.51" y2="37" class="ct-point" ct:value="32"/>
-                                            <line x1="87" y1="48" x2="87.01" y2="48" class="ct-point" ct:value="28"/>
-                                            <line x1="115.5" y1="15" x2="115.51" y2="15" class="ct-point" ct:value="40"/>
-                                            <line x1="144" y1="111.25" x2="144.01" y2="111.25" class="ct-point" ct:value="5"/>
-                                            <line x1="172.5" y1="70" x2="172.51" y2="70" class="ct-point" ct:value="20"/>
-                                            <line x1="201" y1="34.25" x2="201.01" y2="34.25" class="ct-point" ct:value="33"/>
-                                        <text x="30" y="98" class="ct-post">8</text><text x="58.5" y="32" class="ct-post">32</text><text x="87" y="43" class="ct-post">28</text><text x="115.5" y="10" class="ct-post">40</text><text x="144" y="106.25" class="ct-post">5</text><text x="172.5" y="65" class="ct-post">20</text><text x="201" y="29.25" class="ct-post">33</text></g>
+                                            <path d="M30,125L30,107.4C39.5,89.8,49,54.6,58.5,54.6C68,54.6,77.5,63.4,87,63.4C96.5,63.4,106,19.4,115.5,19.4C125,19.4,134.5,114,144,114C153.5,114,163,106.3,172.5,98.6C182,90.9,191.5,67.8,201,52.4L201,125Z" class="ct-area"/>
+                                            <path d="M30,107.4C39.5,89.8,49,54.6,58.5,54.6C68,54.6,77.5,63.4,87,63.4C96.5,63.4,106,19.4,115.5,19.4C125,19.4,134.5,114,144,114C153.5,114,163,106.3,172.5,98.6C182,90.9,191.5,67.8,201,52.4" class="ct-line"/>
+                                            <line x1="30" y1="107.4" x2="30.01" y2="107.4" class="ct-point" ct:value="8"/>
+                                            <line x1="58.5" y1="54.599999999999994" x2="58.51" y2="54.599999999999994" class="ct-point" ct:value="32"/>
+                                            <line x1="87" y1="63.4" x2="87.01" y2="63.4" class="ct-point" ct:value="28"/>
+                                            <line x1="115.5" y1="19.400000000000006" x2="115.51" y2="19.400000000000006" class="ct-point" ct:value="48"/>
+                                            <line x1="144" y1="114" x2="144.01" y2="114" class="ct-point" ct:value="5"/>
+                                            <line x1="172.5" y1="98.6" x2="172.51" y2="98.6" class="ct-point" ct:value="12"/>
+                                            <line x1="201" y1="52.400000000000006" x2="201.01" y2="52.400000000000006" class="ct-point" ct:value="33"/>
+                                        <text x="30" y="102.4" class="ct-post">8</text><text x="58.5" y="49.599999999999994" class="ct-post">32</text><text x="87" y="58.4" class="ct-post">28</text><text x="115.5" y="14.400000000000006" class="ct-post">48</text><text x="144" y="109" class="ct-post">5</text><text x="172.5" y="93.6" class="ct-post">12</text><text x="201" y="47.400000000000006" class="ct-post">33</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1057,7 +1058,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.83 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.933333333333334 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1079,7 +1080,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1279 times</div>
+                                <div class="text">Repositories have been deployed 1280 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -1256,7 +1257,7 @@
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     developer
-                                    <span class="gh">ranked 955k out of 108m users</span>
+                                    <span class="gh">ranked 956k out of 108m users</span>
                                 </div>
                                 <div class="text">Published 36 public repositories</div>
                             </div>
@@ -1271,7 +1272,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="109.04522613065328 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="109.82412060301507 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1299,7 +1300,7 @@
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 141 pull requests</div>
+                                <div class="text">Opened 142 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1375,7 +1376,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="28.040201005025125 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.597989949748744 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g fill="none" fill-rule="evenodd">
@@ -1395,7 +1396,7 @@
                                     <span class="prefix"></span>
                                     Chatter
                                 </div>
-                                <div class="text">Participated in discussions 37 times</div>
+                                <div class="text">Participated in discussions 39 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1483,6 +1484,41 @@
                                     Gister
                                 </div>
                                 <div class="text">Published 2 gists</div>
+                            </div>
+                        </div>
+                        <div class="achievement c largeable-width-half">
+                            <div class="icon">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
+                                    <defs>
+                                        <mask id="mask">
+                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
+                                        </mask>
+                                    </defs>
+                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
+                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="8.157894736842104 155"/>
+                                    </svg>
+                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
+                                        <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
+                                            <path d="M28 37c1.003.005.997-.443 1-1 .004-1.458-.004-4.629 0-6-.007-.564-.068-.987-1-1-2.118 0-4 1.79-4 4s1.882 4 4 4zM48 37c-1.003.005-.997-.443-1-1-.004-1.458.004-4.629 0-6 .007-.564.068-.987 1-1 2.118 0 4 1.79 4 4s-1.882 4-4 4z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <path d="M26 51c.798-4.48 4.87-8.082 9.97-8.849.66-.1 1.338-.151 2.028-.151m9.606 4.038c1.27 1.408 2.12 3.102 2.396 4.945M32.002 39.71A8.966 8.966 0 0038 42a8.967 8.967 0 006.02-2.31m-.015-12.394A8.967 8.967 0 0038 25a8.966 8.966 0 00-5.994 2.286" stroke="#79B8FF" stroke-width="2" stroke-linecap="round"/>
+                                            <path d="M38 45c.17 0 .34-.004.509-.01 5.23-.219 9.596-3.785 11.01-8.613m-.004-6.766C48.052 24.634 43.45 21 38 21c-5.485 0-10.11 3.68-11.542 8.706" stroke="#2088FF" stroke-width="2"/>
+                                            <path d="M37.85 44h1.173c.54 0 .977.438.977.977v.523a1.5 1.5 0 01-3 0v-.65c0-.47.38-.85.85-.85z" fill="#2088FF"/>
+                                            <path d="M22 27h-3v4l-6-4H7a2 2 0 01-2-2V7a2 2 0 012-2h33a2 2 0 012 2v10" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                                            <g stroke="#2088FF" stroke-linecap="round" stroke-width="2">
+                                                <path stroke-linejoin="round" d="M17 13l-3 3 3 3M30 13l3 3-3 3"/>
+                                                <path d="M25.03 10.986l-3.015 10.027"/>
+                                            </g>
+                                        </g>
+                                    </svg>
+                                </svg>
+                            </div>
+                            <div class="info">
+                                <div class="title">
+                                    <span class="prefix"></span>
+                                    Helper
+                                </div>
+                                <div class="text">Answered and solved 2 discussions</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1608,41 +1644,6 @@
                                     Reviewer
                                 </div>
                                 <div class="text">Reviewed 4 pull requests</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g xmlns="http://www.w3.org/2000/svg" fill="none" fill-rule="evenodd">
-                                            <path d="M28 37c1.003.005.997-.443 1-1 .004-1.458-.004-4.629 0-6-.007-.564-.068-.987-1-1-2.118 0-4 1.79-4 4s1.882 4 4 4zM48 37c-1.003.005-.997-.443-1-1-.004-1.458.004-4.629 0-6 .007-.564.068-.987 1-1 2.118 0 4 1.79 4 4s-1.882 4-4 4z" stroke="#2088FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path d="M26 51c.798-4.48 4.87-8.082 9.97-8.849.66-.1 1.338-.151 2.028-.151m9.606 4.038c1.27 1.408 2.12 3.102 2.396 4.945M32.002 39.71A8.966 8.966 0 0038 42a8.967 8.967 0 006.02-2.31m-.015-12.394A8.967 8.967 0 0038 25a8.966 8.966 0 00-5.994 2.286" stroke="#79B8FF" stroke-width="2" stroke-linecap="round"/>
-                                            <path d="M38 45c.17 0 .34-.004.509-.01 5.23-.219 9.596-3.785 11.01-8.613m-.004-6.766C48.052 24.634 43.45 21 38 21c-5.485 0-10.11 3.68-11.542 8.706" stroke="#2088FF" stroke-width="2"/>
-                                            <path d="M37.85 44h1.173c.54 0 .977.438.977.977v.523a1.5 1.5 0 01-3 0v-.65c0-.47.38-.85.85-.85z" fill="#2088FF"/>
-                                            <path d="M22 27h-3v4l-6-4H7a2 2 0 01-2-2V7a2 2 0 012-2h33a2 2 0 012 2v10" stroke="#79B8FF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <g stroke="#2088FF" stroke-linecap="round" stroke-width="2">
-                                                <path stroke-linejoin="round" d="M17 13l-3 3 3 3M30 13l3 3-3 3"/>
-                                                <path d="M25.03 10.986l-3.015 10.027"/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Helper
-                                </div>
-                                <div class="text">Answered and solved 1 discussion</div>
                             </div>
                         </div>
                         <div class="achievement secret largeable-width-half">
@@ -1817,7 +1818,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2023, 15:03:43 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 15 Feb 2023, 16:03:49 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
