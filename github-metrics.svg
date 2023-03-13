@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            2522 Commits
+                            2523 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    35.6m added, 3.47m removed
+                                    32.9m added, 1.18m removed
                                 </div>
                             </section>
                             <section>
@@ -495,16 +495,16 @@
                                     </g>
                                     <g>
                                         <g class="ct-series ct-series-a">
-                                            <path d="M30,125L30,82.833C39.5,81,49,80.621,58.5,77.333C68,74.046,77.5,29.667,87,29.667C96.5,29.667,106,39.72,115.5,48C125,56.28,134.5,76.233,144,86.5C153.5,96.767,163,112.167,172.5,112.167C182,112.167,191.5,101.167,201,95.667L201,125Z" class="ct-area"/>
-                                            <path d="M30,82.833C39.5,81,49,80.621,58.5,77.333C68,74.046,77.5,29.667,87,29.667C96.5,29.667,106,39.72,115.5,48C125,56.28,134.5,76.233,144,86.5C153.5,96.767,163,112.167,172.5,112.167C182,112.167,191.5,101.167,201,95.667" class="ct-line"/>
+                                            <path d="M30,125L30,82.833C39.5,80.389,49,79.715,58.5,75.5C68,71.285,77.5,29.667,87,29.667C96.5,29.667,106,39.72,115.5,48C125,56.28,134.5,75.806,144,86.5C153.5,97.194,163,114,172.5,114C182,114,191.5,101.778,201,95.667L201,125Z" class="ct-area"/>
+                                            <path d="M30,82.833C39.5,80.389,49,79.715,58.5,75.5C68,71.285,77.5,29.667,87,29.667C96.5,29.667,106,39.72,115.5,48C125,56.28,134.5,75.806,144,86.5C153.5,97.194,163,114,172.5,114C182,114,191.5,101.778,201,95.667" class="ct-line"/>
                                             <line x1="30" y1="82.83333333333334" x2="30.01" y2="82.83333333333334" class="ct-point" ct:value="23"/>
-                                            <line x1="58.5" y1="77.33333333333334" x2="58.51" y2="77.33333333333334" class="ct-point" ct:value="26"/>
+                                            <line x1="58.5" y1="75.5" x2="58.51" y2="75.5" class="ct-point" ct:value="27"/>
                                             <line x1="87" y1="29.66666666666667" x2="87.01" y2="29.66666666666667" class="ct-point" ct:value="52"/>
                                             <line x1="115.5" y1="48" x2="115.51" y2="48" class="ct-point" ct:value="42"/>
                                             <line x1="144" y1="86.5" x2="144.01" y2="86.5" class="ct-point" ct:value="21"/>
-                                            <line x1="172.5" y1="112.16666666666667" x2="172.51" y2="112.16666666666667" class="ct-point" ct:value="7"/>
+                                            <line x1="172.5" y1="114" x2="172.51" y2="114" class="ct-point" ct:value="6"/>
                                             <line x1="201" y1="95.66666666666667" x2="201.01" y2="95.66666666666667" class="ct-point" ct:value="16"/>
-                                        <text x="30" y="77.83333333333334" class="ct-post">23</text><text x="58.5" y="72.33333333333334" class="ct-post">26</text><text x="87" y="24.66666666666667" class="ct-post">52</text><text x="115.5" y="43" class="ct-post">42</text><text x="144" y="81.5" class="ct-post">21</text><text x="172.5" y="107.16666666666667" class="ct-post">7</text><text x="201" y="90.66666666666667" class="ct-post">16</text></g>
+                                        <text x="30" y="77.83333333333334" class="ct-post">23</text><text x="58.5" y="70.5" class="ct-post">27</text><text x="87" y="24.66666666666667" class="ct-post">52</text><text x="115.5" y="43" class="ct-post">42</text><text x="144" y="81.5" class="ct-post">21</text><text x="172.5" y="109" class="ct-post">6</text><text x="201" y="90.66666666666667" class="ct-post">16</text></g>
                                     </g>
                                     <g class="ct-labels">
                                         <text x="30" y="145" width="28.5" height="20" class="ct-label ct-horizontal ct-end">Sun</text>
@@ -1027,7 +1027,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.61999999999999 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.72333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1049,7 +1049,7 @@
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1906 times</div>
+                                <div class="text">Repositories have been deployed 1907 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -1819,7 +1819,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Mar 2023, 22:03:37 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 13 Mar 2023, 23:03:32 (timezone Europe/London) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
